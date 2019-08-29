@@ -25,7 +25,7 @@
     .navbar-link {
         border-radius: 5px;
         color: #fff;
-        margin-top: 15px;
+        margin-top: 10px;
         padding: 8px;
     }
     
@@ -128,4 +128,13 @@
 
 .datepicker {
     z-index:1001 !important;
+}
+
+.navbar.navbar-static-top {
+    background: #000;
+    color: #fff !important;
+}
+
+.logout {
+    padding-left: 0;
 }
